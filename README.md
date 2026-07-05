@@ -8,18 +8,17 @@ This dataset contains structured metadata and engagement statistics for YouTube 
 
 Each row represents a single YouTube video and includes:
 
-**Video metadata**
-
-Channel information
-User engagement metrics
-Video category and duration details
-Computed ratios (engagement rate, likes/views, comments/views)
-Video age and publication characteristics
+1. Video metadata
+2. Channel information
+3. User engagement metrics
+4. Video category and duration details
+5. Computed ratios (engagement rate, likes/views, comments/views)
+6. Video age and publication characteristics
 
 **📌 Use Cases**
 
-Predict video performance
-Analyze factors contributing to virality
-Study viewer engagement behavior
-Support content strategy and optimization
-Train machine-learning models for ranking, recommendations, or engagement prediction
+1. Predict video performance
+2. Analyze factors contributing to virality
+3. Study viewer engagement behavior
+4. Support content strategy and optimization
+5. Train machine-learning models for ranking, recommendations, or engagement prediction
